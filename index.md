@@ -5,3 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ###### learned how to create header creating readme.md file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
